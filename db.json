@@ -1,0 +1,15 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "number": "Д123123123"
+    },
+    {
+      "id": 2,
+      "number": "Д4564456"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
